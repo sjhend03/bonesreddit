@@ -1,0 +1,23 @@
+:root {
+  --color1: #151515;
+  --color2: #1B1B1B;
+  --color3: #222222;
+  --color4: #262626;
+  --color5: #313131;
+  --color6: #494949;
+  --color7: #747474;
+  --color8: #D0D2D7;
+  --color9: #FFFFFF;
+  --color10: #3958FC;
+}
+
+.nav-bar-container {
+  width: 100%;
+  height: 100px;
+  border: 1px solid var(--color2);
+}
+
+.nav-bar-container img {
+  height: 50px;
+  width: 50px;
+}
