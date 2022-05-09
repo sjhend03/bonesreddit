@@ -21,3 +21,14 @@
   height: 50px;
   width: 50px;
 }
+
+.main-container {
+  display: grid;
+  grid-template-columns: 7fr 3fr;
+  grid-template-rows: 1fr;
+}
+
+.subreddits,
+.posts {
+  border: 1px solid black;
+}
